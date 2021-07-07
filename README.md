@@ -11,7 +11,7 @@ I had some help from my editor to put together the making of video.
 
 I've submitted one work without music & one with music since the music was licensed to me by Envato Elements (not sure the coypright/creative attribution rules for this). 
 
-Instead of showing the future of work, I decided to just go ahead and become the future of work - I believe the future is already here where artists are able to create 3D infinite worlds of our own imagination. Cryptocurrency and web 3.0 is here - the metaverse is being created by us already - this is just one example - although you don't the future of work or how this will benefit the world I hope through this demonstration you can see that in a matter of hours a single artist can begin to create a film that once took an army of 3D artists. 
+Instead of showing the future of work, I decided to just go ahead and become the future of work - I believe the future is already here where artists are able to create 3D infinite worlds of our own imagination. Cryptocurrency and web 3.0 is here - the metaverse is being created by us already - this is just one example - I hope through this demonstration you can see that in a matter of hours a single artist can begin to create a film that once took an army of 3D artists - this is the future of work... and play.
 
 Next steps beyond the scope of this submission: Import into Unreal Engine and make it look realistic with raytraced lighting. 
 Publish a separate Quill Scene to Oculus Quill Theatre for an immersive 3D experience. 
